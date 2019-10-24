@@ -2,6 +2,7 @@
 | :------------ |:---------------:|
 | Ajaydeep Bajwa      | C0744219 |
 | Amrik Singh Sidhu        | C0742318        |
+| Preetwinder Kaur      | C0743856        |
 
 ## Chippy Game
 ##### Chippy game is a single player bullets shooting game. Both sprites, enemy and player hit each others with bullets. The destruction of enemy is removing small part of emeny image (enemy is made of multiple tiny parts of the big image by cropping the enemy image).
